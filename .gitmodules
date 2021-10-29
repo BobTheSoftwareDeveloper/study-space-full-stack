@@ -1,0 +1,6 @@
+[submodule "study-space-react-native"]
+	path = study-space-react-native
+	url = https://github.com/BobTheSoftwareDeveloper/study-space-react-native.git
+[submodule "study-space-server"]
+	path = study-space-server
+	url = https://github.com/BobTheSoftwareDeveloper/study-space-server.git
